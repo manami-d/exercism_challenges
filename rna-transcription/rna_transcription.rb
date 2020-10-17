@@ -5,7 +5,7 @@ Write your code for the 'Rna Transcription' exercise in this file. Make the test
 To get started with TDD, see the `README.md` file in your
 `ruby/rna-transcription` directory.
 =end
-
+# 
 class RnaTranscription
   def self.of_dna(dna)
     if dna == ' ' 

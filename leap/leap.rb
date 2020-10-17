@@ -7,7 +7,7 @@ To get started with TDD, see the `README.md` file in your
 =end
 
 class Year
-    def self.leap?(year)
-      year % 4 == 0 && year % 100 != 0 || year % 400 == 0
-    end
+  def self.leap?(year)
+      year % 4 == 0 && year % 100 != 0 || year % 400 == 0 
+  end
 end
