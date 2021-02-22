@@ -1,6 +1,6 @@
 # Exercism Challenges
 
-##Description
+## Description
 
 This is to record the challenges and the answers that I complete along with a way to become more familiar with Git.
 
